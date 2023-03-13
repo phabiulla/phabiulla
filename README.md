@@ -1,18 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phabiulla</h1>
-<h3 align="center">
-  A development analyst who loves to code and tries to learn new things every day. I have more than 5 years of experience. My skills include web/mobile.</h3>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=phabiulla" alt="phabiulla" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/phabiulla" target="blank">
-    <img src="https://img.shields.io/twitter/follow/phabiulla?logo=twitter&style=for-the-badge" alt="phabiulla" />
-  </a
-</p>
+<h3>
+  A development analyst who loves to code, has a secret passion for NFTs and tries to learn new things every day.
+</h3>
 
 - 🔭 I’m currently working on [KITCH](https://www.kitch.io/)
 
@@ -72,15 +61,4 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phabiulla&show_icons=true&locale=en&layout=compact"
-       alt="phabiulla" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phabiulla&show_icons=true&locale=en" alt="phabiulla" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phabiulla&" alt="phabiulla" />
 </p>
