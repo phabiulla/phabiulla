@@ -1,7 +1,7 @@
 # Hi 👋, I'm Phabiulla
 
 - 🧬 A development analyst who loves to code, has a secret passion for NFTs and tries to learn new things every day
-- 🔭 Currently working at [StudentFinance](https://www.studentfinance.com/)
+- 🔭 Currently working at [Accrue](https://www.byaccrue.com/)
 
 # Tech Stack
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
